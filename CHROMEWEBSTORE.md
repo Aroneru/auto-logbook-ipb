@@ -12,14 +12,14 @@ Auto Logbook IPB
 
 **Short Description** [REQUIRED] (≤ 132 chars)
 
-Isi Log Aktivitas Kampus Merdeka di Student Portal IPB dari Google Sheets/Excel: tempel, periksa, kirim. Ekstensi tidak resmi.
+Isi Log Aktivitas di Student Portal IPB dari Google Sheets/Excel: tempel, periksa, kirim. Ekstensi tidak resmi.
 
-*(English alternative, 119 chars: "Fill the IPB Student Portal Kampus Merdeka activity log from Google Sheets or Excel: paste, review, submit. Unofficial.")*
+*(English alternative, 120 chars: "Fill the IPB Student Portal activity log (Log Aktivitas) from Google Sheets or Excel: paste, review, submit. Unofficial.")*
 
 **Detailed Description** [REQUIRED] (plain text; the store strips Markdown)
 
 ```
-Isi Log Aktivitas Kampus Merdeka di Student Portal IPB sekaligus dari Google Sheets atau Excel, tanpa mengisi formulir "Tambah Log Aktivitas" satu per satu.
+Isi Log Aktivitas di Student Portal IPB sekaligus dari Google Sheets atau Excel, tanpa mengisi formulir "Tambah Log Aktivitas" satu per satu.
 
 FITUR
 • Tempel langsung baris logbook dari Google Sheets/Excel, atau buka file CSV/XLSX.

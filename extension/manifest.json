@@ -3,7 +3,7 @@
   "name": "Auto Logbook IPB",
   "short_name": "Auto Logbook",
   "version": "0.1.0",
-  "description": "Isi Log Aktivitas Kampus Merdeka di Student Portal IPB sekaligus dari Google Sheets atau Excel. Ekstensi tidak resmi.",
+  "description": "Isi Log Aktivitas di Student Portal IPB sekaligus dari Google Sheets atau Excel. Ekstensi tidak resmi.",
   "minimum_chrome_version": "110",
   "permissions": ["storage"],
   "host_permissions": ["https://studentportal.ipb.ac.id/*"],

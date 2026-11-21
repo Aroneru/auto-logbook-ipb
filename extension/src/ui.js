@@ -812,11 +812,11 @@
       const info = (this.s.index && this.s.index.info) || {};
       const parts = [];
       if (this.ctx.kind === 'log') {
-        parts.push(info.nama || 'Log Aktivitas Kampus Merdeka');
+        parts.push(info.nama || 'Log Aktivitas');
         const p = this.period();
         if (p && p.from && p.to) parts.push(`${D.human(p.from, false)} – ${D.human(p.to, false)}`);
         if (this.s.index && this.s.index.tableFound) parts.push(`${this.s.index.entries.length} log di portal`);
-      } else parts.push('Pengisi Log Aktivitas Kampus Merdeka');
+      } else parts.push('Pengisi Log Aktivitas');
       this.refs.sub.textContent = parts.join(' · ');
     }
 

@@ -2,7 +2,7 @@
   "name": "auto-logbook-ipb",
   "version": "0.1.0",
   "private": true,
-  "description": "Browser extension that fills the IPB Student Portal Kampus Merdeka activity log from a Google Sheets/Excel logbook.",
+  "description": "Browser extension that fills the IPB Student Portal activity log (Log Aktivitas) from a Google Sheets/Excel logbook.",
   "type": "module",
   "scripts": {
     "test": "node --test \"test/unit/*.test.js\"",

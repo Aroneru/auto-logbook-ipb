@@ -2,7 +2,7 @@
 
 Last updated: 21 November 2026
 
-Auto Logbook IPB is an unofficial browser extension that fills the Kampus Merdeka activity log on the IPB Student Portal (`studentportal.ipb.ac.id`) from logbook rows that you paste or open yourself.
+Auto Logbook IPB is an unofficial browser extension that fills the activity log (Log Aktivitas) on the IPB Student Portal (`studentportal.ipb.ac.id`) from logbook rows that you paste or open yourself.
 
 ## What the extension handles
 

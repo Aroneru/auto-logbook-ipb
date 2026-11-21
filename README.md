@@ -1,6 +1,6 @@
 # Auto Logbook IPB
 
-Ekstensi browser (Chrome/Edge) untuk mengisi **Log Aktivitas Kampus Merdeka** di Student Portal IPB sekaligus dari Google Sheets atau Excel. Tempel baris logbook Anda, periksa, lalu kirim. Tidak perlu lagi mengisi formulir "Tambah Log Aktivitas" satu per satu.
+Ekstensi browser (Chrome/Edge) untuk mengisi **Log Aktivitas** di Student Portal IPB sekaligus dari Google Sheets atau Excel. Tempel baris logbook Anda, periksa, lalu kirim. Tidak perlu lagi mengisi formulir "Tambah Log Aktivitas" satu per satu.
 
 > **Ekstensi tidak resmi.** Tidak berafiliasi dengan IPB University. Gunakan untuk logbook Anda sendiri.
 
