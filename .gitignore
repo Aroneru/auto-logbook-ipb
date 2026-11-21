@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.zip
+.DS_Store
+Thumbs.db
+# personal logbooks and proof files kept next to the project: never commit them
+pribadi/
+*.xlsx
+*.csv
+bukti/
